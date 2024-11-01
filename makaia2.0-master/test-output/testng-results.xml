@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-11-01T20:27:38 IST" name="Default suite" finished-at="2024-11-01T20:27:47 IST" duration-ms="8843">
+    <groups>
+    </groups>
+    <test started-at="2024-11-01T20:27:38 IST" name="Default test" finished-at="2024-11-01T20:27:47 IST" duration-ms="8843">
+      <class name="tests.rest.TC_BookingOperations">
+        <test-method is-config="true" signature="createToken()[pri:0, instance:tests.rest.TC_BookingOperations@505fc5a4]" started-at="2024-11-01T20:27:38 IST" name="createToken" finished-at="2024-11-01T20:27:42 IST" duration-ms="4224" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createToken -->
+        <test-method signature="createBooking()[pri:0, instance:tests.rest.TC_BookingOperations@505fc5a4]" started-at="2024-11-01T20:27:42 IST" name="createBooking" finished-at="2024-11-01T20:27:44 IST" duration-ms="1414" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createBooking -->
+        <test-method signature="getallBookingId()[pri:0, instance:tests.rest.TC_BookingOperations@505fc5a4]" started-at="2024-11-01T20:27:44 IST" name="getallBookingId" finished-at="2024-11-01T20:27:46 IST" duration-ms="1784" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getallBookingId -->
+        <test-method signature="updateBooking()[pri:0, instance:tests.rest.TC_BookingOperations@505fc5a4]" started-at="2024-11-01T20:27:46 IST" name="updateBooking" finished-at="2024-11-01T20:27:47 IST" duration-ms="1366" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateBooking -->
+      </class> <!-- tests.rest.TC_BookingOperations -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
